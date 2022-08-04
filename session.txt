@@ -1,0 +1,7 @@
+spring: march to may
+
+summer: june to aug
+
+aut: sept to nov
+
+winter: dec to feb
